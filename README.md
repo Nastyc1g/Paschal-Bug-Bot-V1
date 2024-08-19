@@ -188,7 +188,7 @@ Enjoy the diverse features of the WhatsApp bot Paschal-Bug-Bot-V1 to enhance you
 ## 🎯 Authors 🎯
   <div align="center">
   
-| [![PASCHAL](https://github.com/Anime-King01.png?size=150)](https://github.com/Nastyc1g/Paschal-Bug-Bot-V1) |
+| [![PASCHAL](https://github.com/Nastyc1g.png?size=150)](https://github.com/Nastyc1g/Paschal-Bug-Bot-V1) |
 |----|
 | [  PASCHAL ](https://github.com/Nastyc1g) |
 |  Developer |
