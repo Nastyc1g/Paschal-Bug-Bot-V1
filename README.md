@@ -183,7 +183,7 @@ Contributions to Paschal-Bug-Bot-V1 are welcome! If you have ideas for new featu
 
 The WhatsApp Bot Devil Cat v2 MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the WhatsApp Bot Devil Cat v2 Md to enhance your conversations and make your WhatsApp experience more interesting!
+Enjoy the diverse features of the WhatsApp bot Paschal-Bug-Bot-V1 to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## 🎯 Authors 🎯
   <div align="center">
